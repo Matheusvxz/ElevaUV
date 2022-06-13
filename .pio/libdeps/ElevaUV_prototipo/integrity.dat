@@ -1,0 +1,5 @@
+adafruit/Adafruit MPU6050@^2.0.5
+bblanchon/ArduinoJson@^6.18.5
+adafruit/RTClib@^2.0.1
+kapraran/FreqCountESP@^1.0.0
+arduino-libraries/NTPClient@^3.1.0
